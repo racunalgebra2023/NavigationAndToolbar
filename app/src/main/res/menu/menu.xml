@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/aTost"
+        android:title="Toast" />
+    <item
+        android:id="@+id/aDialog"
+        android:title="Dijalog" />
+    <item
+        android:id="@+id/aDijalogDatum"
+        android:title="Datum" />
+    <item
+        android:id="@+id/aSnack"
+        android:title="Snack" />
+</menu>
